@@ -15,10 +15,10 @@
  -  Deploy as a web app
 
 # 💡 Features
-  ✔︎ Predict house price from user inputs
-  ✔︎ Fast inference with pre-trained ML model
-  ✔︎ Clean UI for entering features
-  ✔︎ Useful for real-estate insights
+  - Predict house price from user inputs
+  - Fast inference with pre-trained ML model
+  - Clean UI for entering features
+  - Useful for real-estate insights
 
 # 🛠️ Built With
   - Python
