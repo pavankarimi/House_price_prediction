@@ -43,7 +43,8 @@
 ├── templates/
 │   └── index.html          # Web UI
 ├── static/
-│   └── css/                # Styles
+│   └── Styles.css          # Styles
+|   └── Script.js           # Script
 └── README.md
 
 ```
