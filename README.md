@@ -1,18 +1,18 @@
 # 🏡 House Price Prediction
-  A dope web app that predicts housing prices using a trained Machine Learning model — just drop in house features and let it spit out a prediction. Built with Python + ML backend and deployed on Render.
+  A dope web app that predicts housing prices using a trained Machine Learning model — just drop in house features and let it spit out a prediction. Built with  Python + ML backend and deployed on Render.
 
 # 🚀 Live Demo
   👉 https://house-price-prediction-9lzf.onrender.com/
   🔥 Enter house details and get predicted prices in real time!
 
 # 🧠 Project Overview
-T  his project trains a model to predict house prices from key property features. The model learns patterns based on historical data and then gives you price estimates based on user-provided inputs.
+ This project trains a model to predict house prices from key property features. The model learns patterns based on historical data and then gives you price estimates based on user-provided inputs.
 
 # 🧪 Typical workflow:
-  Data Prep & EDA
-  Feature Engineering
-  Train ML regression model
-  Deploy as a web app
+ - Data Prep & EDA
+ - Feature Engineering
+ - Train ML regression model
+ -  Deploy as a web app
 
 # 💡 Features
   ✔︎ Predict house price from user inputs
