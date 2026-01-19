@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>🏠 House Price Prediction</h1>
+
+    <input id="area" type="number" placeholder="Area (sqft)">
+    <input id="bedrooms" type="number" placeholder="Bedrooms">
+    <input id="bathrooms" type="number" placeholder="Bathrooms">
+    <input id="floors" type="number" placeholder="Floors">
+    <input id="parking" type="number" placeholder="Parking">
+    <input id="age" type="number" placeholder="House Age">
+
+    <button onclick="predictPrice()">Predict Price</button>
+
+    <h2 id="result"></h2>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
